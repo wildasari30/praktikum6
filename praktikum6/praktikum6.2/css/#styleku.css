@@ -1,0 +1,30 @@
+h1{
+  color: blue;
+}
+
+#header{
+  background-color: lightsalmon;
+  text-align: center;
+}
+
+blockquote{
+  background-color: yellow;
+  border: 1px dotted black;
+}
+
+.gambar{
+  text-align: center;
+}
+
+.nav{
+  text-align: center;
+}
+.nav ul{
+  list-style: none;
+}
+
+.jawa{
+  color: blue;
+  font-size: 50px;
+  font-weight: bold;
+}
